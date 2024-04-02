@@ -7,7 +7,7 @@
 import pandas as pd
 
 # Load the data
-data_path = 'High Confidence Data - Sheet2.csv'
+data_path = 'High Confidence Data.csv'
 data = pd.read_csv(data_path)
 
 # Display the first few rows of the dataframe to understand its structure
